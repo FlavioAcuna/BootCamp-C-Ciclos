@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\bin\Debug\net7.0\Ciclos.exe
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\bin\Debug\net7.0\Ciclos.deps.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\bin\Debug\net7.0\Ciclos.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\bin\Debug\net7.0\Ciclos.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\bin\Debug\net7.0\Ciclos.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\refint\Ciclos.dll
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.pdb
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\Ciclos.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 5 asignaciones\dia 5\Ciclos\obj\Debug\net7.0\ref\Ciclos.dll
